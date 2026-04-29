@@ -13,3 +13,6 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed off-by-one error in loop
 - Reviewed open issues, added labels
 - Fixed minor edge case in input handling
+
+## 2026-04-29
+- Added basic usage examples to README
